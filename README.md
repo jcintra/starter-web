@@ -16,4 +16,4 @@ Someythinf
 ## Last chapter
 
 Something interesting
-Way it's not working?
+Why it's not working?
