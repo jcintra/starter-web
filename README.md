@@ -1,5 +1,6 @@
 # Starter Web Repo
 
+The start of the page
 This repository is for showing how Git and GitHub work
 
 ## Purpose
@@ -17,3 +18,5 @@ Someythinf
 
 Something interesting
 Why it's not working?
+
+The end
