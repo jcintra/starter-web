@@ -20,6 +20,11 @@ Someythinf
 Something interesting
 Why it's not working?
 
+## Tahniks
+
+Thanks to all my studetns by rebasing
+
+
 ## CopyRight
 Notice
 
