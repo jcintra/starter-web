@@ -20,7 +20,7 @@ Someythinf
 Something interesting
 Why it's not working?
 
-## Tahniks
+## Thanks
 
 Thanks to all my studetns by rebasing
 
